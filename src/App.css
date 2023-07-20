@@ -1,3 +1,23 @@
+* {
+  box-sizing: block;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  line-height: 90px;
+}
+
+a:link,a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+img:hover {
+  opacity: 70%;
+}
+
 .App {
   text-align: center;
 }
